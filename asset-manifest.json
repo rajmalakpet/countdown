@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/rajmalakpet/countdown/static/css/main.d1b05096.chunk.css",
-    "main.js": "/rajmalakpet/countdown/static/js/main.18c40107.chunk.js",
-    "main.js.map": "/rajmalakpet/countdown/static/js/main.18c40107.chunk.js.map",
-    "runtime-main.js": "/rajmalakpet/countdown/static/js/runtime-main.61b489e8.js",
-    "runtime-main.js.map": "/rajmalakpet/countdown/static/js/runtime-main.61b489e8.js.map",
-    "static/js/2.30b78ab5.chunk.js": "/rajmalakpet/countdown/static/js/2.30b78ab5.chunk.js",
-    "static/js/2.30b78ab5.chunk.js.map": "/rajmalakpet/countdown/static/js/2.30b78ab5.chunk.js.map",
-    "index.html": "/rajmalakpet/countdown/index.html",
-    "precache-manifest.692f9ff822d3c7e0b4d4134a4539832f.js": "/rajmalakpet/countdown/precache-manifest.692f9ff822d3c7e0b4d4134a4539832f.js",
-    "service-worker.js": "/rajmalakpet/countdown/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/rajmalakpet/countdown/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.30b78ab5.chunk.js.LICENSE.txt": "/rajmalakpet/countdown/static/js/2.30b78ab5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/rajmalakpet/countdown/static/media/logo.5d5d9eef.svg"
+    "main.css": "/countdown/static/css/main.d1b05096.chunk.css",
+    "main.js": "/countdown/static/js/main.aa874e41.chunk.js",
+    "main.js.map": "/countdown/static/js/main.aa874e41.chunk.js.map",
+    "runtime-main.js": "/countdown/static/js/runtime-main.6eebaf02.js",
+    "runtime-main.js.map": "/countdown/static/js/runtime-main.6eebaf02.js.map",
+    "static/js/2.30b78ab5.chunk.js": "/countdown/static/js/2.30b78ab5.chunk.js",
+    "static/js/2.30b78ab5.chunk.js.map": "/countdown/static/js/2.30b78ab5.chunk.js.map",
+    "index.html": "/countdown/index.html",
+    "precache-manifest.4f194511238c33ae7b7a48810a31de5e.js": "/countdown/precache-manifest.4f194511238c33ae7b7a48810a31de5e.js",
+    "service-worker.js": "/countdown/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/countdown/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.30b78ab5.chunk.js.LICENSE.txt": "/countdown/static/js/2.30b78ab5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/countdown/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.61b489e8.js",
+    "static/js/runtime-main.6eebaf02.js",
     "static/js/2.30b78ab5.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.18c40107.chunk.js"
+    "static/js/main.aa874e41.chunk.js"
   ]
 }
